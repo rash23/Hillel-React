@@ -1,0 +1,21 @@
+.item {
+	display: flex;
+	border: 1px solid #004282;
+	align-items: center;
+	border-radius: 4px;
+}
+
+.item-id {
+	text-align: center;
+	border-right: 1px solid #004282;
+	padding: 10px;
+	min-width: 40px;
+	color: #54d226;
+	font-weight: bold;
+	background-color: #004282;
+}
+
+.item-title {
+	padding: 10px;
+	color: #004282;
+}
